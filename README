@@ -1,0 +1,5 @@
+Graylog Server installation for Debian9
+
+- MongoDB 3.6
+- Elasticsearch 5
+- Graylog 2.4
